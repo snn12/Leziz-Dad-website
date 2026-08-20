@@ -1,0 +1,23 @@
+.auth-wrap {
+  max-width: 440px;
+}
+
+.auth-form {
+  padding: 36px;
+}
+
+.auth-switch {
+  text-align: center;
+  margin-top: 18px;
+  font-size: 0.92rem;
+  color: var(--text-muted);
+}
+
+.auth-switch a {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.auth-switch a:hover {
+  text-decoration: underline;
+}

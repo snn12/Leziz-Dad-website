@@ -1,0 +1,21 @@
+.page-head {
+  padding: 72px 0 24px;
+  text-align: center;
+}
+
+.page-title {
+  font-family: var(--font-serif);
+  font-size: clamp(2.2rem, 4.5vw, 3.2rem);
+  font-weight: 600;
+}
+
+.page-sub {
+  color: var(--text-muted);
+  margin-top: 10px;
+}
+
+.empty-state {
+  text-align: center;
+  color: var(--text-muted);
+  padding: 60px 0;
+}
